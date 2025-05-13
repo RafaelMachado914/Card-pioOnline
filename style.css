@@ -1,0 +1,22 @@
+h2{
+    background-color: red;
+    color: #ffee00;
+}
+h1{
+    background-color: #ffee00;
+    color: red;
+}
+h3{
+    background-color: #ffee00;
+    color: red;
+}
+.cl-p-red{
+    color: rgb(251, 255, 0);
+    background-color: red;
+}
+img {
+      border-radius: 15px;
+    }
+body{
+          background-color: rgb(216, 117, 117);
+    }
