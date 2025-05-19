@@ -1,22 +1,60 @@
 h2{
-    background-color: red;
-    color: #ffee00;
+    background-color: rgb(202, 0, 0);
+    padding: 10px 20px;
+    border-radius: 12px;
+    display: inline-block;
+    color: rgb(204, 216, 35);
+    text-shadow:
+    0 0 10px yellow,
+    0 0 20px yellow,
+    0 0 40px yellow;
 }
 h1{
     background-color: #ffee00;
     color: red;
+    padding: 10px 20px;
+    border-radius: 12px;
+
 }
 h3{
     background-color: #ffee00;
     color: red;
+    padding: 10px 20px;
+    border-radius: 12px;
+    display: inline-block;
 }
 .cl-p-red{
-    color: rgb(251, 255, 0);
-    background-color: red;
+    color: rgb(240, 240, 240);
+    background-color: rgb(197, 9, 9);
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    box-shadow: rgb(255, 255, 255);
 }
 img {
-      border-radius: 15px;
+    border-radius: 15px;
+      border: 3px solid red;
+      box-shadow:
+    0 0 10px red,
+    0 0 20px red,
+    0 0 40px red inset;
     }
 body{
-          background-color: rgb(216, 117, 117);
-    }
+          background: linear-gradient(to right, #220803,rgb(161, 10, 10), #f1cf0b);
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+}
+ul{
+    color: aliceblue;
+    font-size: 20px;
+}
+.cl-area-bordo{
+    color: black;
+    background-color:rgb(255, 0, 34);
+}
+.cl-check-red{
+    accent-color:rgb(255, 0, 55);
+}
+
